@@ -45,7 +45,7 @@ QuickGantt automatically creates visually appealing Gantt charts from Excel file
 
 ### Option 1: Using the executable (Windows)
 
-1. Download the latest release from the [Releases page](https://github.com/eve-mcgivern/QuickGantt/releases)
+1. Download the latest release from the [Releases page](https://github.com/evemcgivern/QuickGantt/releases)
 2. Run `QuickGantt.exe` - no installation required
 
 ### Option 2: From source code
